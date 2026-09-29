@@ -1,0 +1,65 @@
+Create a modern and simple travel website called “Sowmi Travels – Explore Kerala Your Way.”The website should have these pages:
+Home
+About Us
+Destinations
+Tour Packages
+Services
+Blog
+Contact
+
+The website is for a tour operator offering customised Kerala holiday packages, including Munnar, Alleppey, Thekkady, Kovalam, and Wayanad.
+
+Use a warm, friendly, and trustworthy visual style with relevant Kerala travel images, clear navigation, attractive sections, readable fonts, proper alignment, and responsive design for desktop and mobile.
+
+ICEPOT
+
+I — Instructions
+Design the complete frontend website based on the requirements. Connect all pages through smooth navigation. Use relevant Kerala travel background/images. Build the interface using HTML and CSS only.
+
+C — Context
+Sowmi Travels provides:
+
+Customised tour packages
+Houseboat stays
+Hotel booking
+Cab rental
+Custom trip planning
+24/7 trip support
+
+Target customers:
+
+Families
+Honeymoon couples
+Small friend groups
+
+E — Expertise / Persona
+Act as an AI Web Architect and UI/UX Designer with 10+ years of experience designing travel websites.
+
+P — Output
+Create an attractive, professional, responsive website with:
+
+Proper alignment
+Clear navigation
+Consistent design
+Readable fonts
+Relevant images
+Connected pages
+Mobile and desktop responsiveness
+
+T — Tone
+Professional, warm, friendly, and trustworthy.
+
+Strict requirements:
+
+Do not hallucinate business information.
+Do not invent prices, awards, statistics, or customer information.
+Use [PLACEHOLDER] wherever real business details are required.
+Frontend only.
+Use HTML and CSS only.
+No backend/database.
+Ask the user 20 questions before finalizing the architecture.
+Ask one question at a time.
+Every question must have exactly 4 options.
+Wait for the user's answer before asking the next question.
+If the user says "Explain", explain the options.
+If the user says "Skip", move to the next question.

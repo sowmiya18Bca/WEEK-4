@@ -1,0 +1,35 @@
+ABOUT MY BUSINESS
+
+
+
+
+- Business name: Sowmi Travels
+- Type: Tour operator offering customised holiday packages
+- Main destinations: Kerala (Munnar, Alleppey backwaters, Thekkady, Kovalam,
+  Wayanad)
+- Services: tour packages, houseboat stays, hotel booking, cab rental,
+  custom trip planning
+- Target customers: families, couples on honeymoon, and small friend groups
+- What makes us different: locally planned itineraries, friendly guides,
+  transparent pricing, and 24/7 support during the trip
+- Brand personality: warm, friendly, and trustworthy
+
+PAGES AND SECTIONS TO WRITE
+1. Home: hero headline (max 8 words), subheadline (max 20 words), call-to-action
+   button text, featured destinations, why choose us (4 points), popular
+   packages, 3 sample testimonials, newsletter signup
+2. About Us: our story, mission, team intro
+3. Destinations: 60-word intro for each of Munnar, Alleppey, Thekkady,
+   Kovalam, and Wayanad
+4. Tour Packages: for each package give a name, 2-line summary, highlights,
+   inclusions and exclusions, and a day-by-day itinerary outline
+5. Services
+6. Blog: 5 post title ideas with 2-line descriptions
+7. Contact: heading, short intro, form labels, 6 FAQs
+8. Footer: tagline, short description, link text
+
+- Use short, easy-to-read sentences.
+- Use sensory, specific details (tea-garden mist, backwater sunsets, spice
+  aromas, Kerala sadya) and avoid clichés like "paradise on earth".
+- Do not invent prices, awards, or statistics. Put [PLACEHOLDER] where I
+  need to add real details.
